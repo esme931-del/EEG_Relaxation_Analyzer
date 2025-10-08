@@ -11,7 +11,7 @@ to extract frequency bands and plot alpha wave activity.
 - **Tools:** Python, MNE, Matplotlib  
 
 ## Files  
-- `Alpha.pdf` → Full report with figures and analysis  
+- `EEG relaxation Analyzer.ipynb` → Full report with figures and analysis  
 - `S001R01.edf` → Sample EEG data  
 
 ## Interpretation  
